@@ -1,0 +1,9 @@
+.removed {
+    text-decoration: line-through;
+}
+.finished {
+    color: green;
+}
+.regular-list {
+    list-style: none;
+}
